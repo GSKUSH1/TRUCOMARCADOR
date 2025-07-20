@@ -1,0 +1,6 @@
+{
+  "name": "Contador de Truco",
+  "description": "Um placar simples e elegante para marcar os pontos e as vitórias nas suas partidas de Truco.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
